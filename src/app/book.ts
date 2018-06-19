@@ -1,5 +1,5 @@
 export class Book {
-  id: number;
+  id?: number;
   name: String;
-  author: String;
+  author?: String;
 }
